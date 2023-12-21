@@ -8,7 +8,7 @@ import os
 import requests
 import url_save
 
-download_dir = r"C:\Users\陳昱辰\PycharmProjects\hw\venv\data_ana"
+download_dir = r"Enter the absoulte path you want your data to be downloaded"
 prefs = {
     "download.default_directory": download_dir,  # Set default download directory
     "download.prompt_for_download": False,  # Don't prompt for download
